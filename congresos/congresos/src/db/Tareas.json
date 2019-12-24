@@ -1,0 +1,22 @@
+{
+    "Tareas":[
+      {
+        "title":"Task 1",
+        "description": "lorem impsum",
+        "priority":"LOW",
+        "date": "15/08/1993"
+      },
+      {
+        "title":"Task 2",
+        "descriprion": "lorem impsum 2",
+        "priority":"medium",
+        "date": "5/4/1991"
+      },
+      {
+        "title":"Task 3",
+        "descriprion": "lorem impsum 3",
+        "priority":"high",
+        "date": "1/1/2020"
+      }
+    ]
+  }
