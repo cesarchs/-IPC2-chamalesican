@@ -1,0 +1,13 @@
+{
+    "Administradores":[
+        {
+            "nombre":"Cesar Chamale",
+            "nacimiento":"31/12/1197",
+            "telefono":"31482997",
+            "correo":"cesar@gmail.com",
+            "nickname":"checha",
+            "contrasena":"1234",
+            "puesto":"Jefe"
+        }
+    ]
+}
